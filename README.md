@@ -1,0 +1,2 @@
+# sheepWaterbuffaloCode
+#kosen16s で使用されるsheepWaterbuffaloCode，通称SWCを生成する
