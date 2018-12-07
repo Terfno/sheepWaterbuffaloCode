@@ -17,7 +17,7 @@ SWCの現在の仕様はASCIIのみに対応している。
 
 それぞれ`1`を:sheep:，`0`を:water_buffalo:として変換する。
 
-そしてそれぞれの文字で改行を入れると以下のようになる。
+そしてそれぞれの文字で改行またはカンマを入れて区切ると以下のようになる。
 ```
 :sheep: :water_buffalo: :water_buffalo: :sheep: :sheep: :sheep: :water_buffalo: 
 :sheep: :water_buffalo: :water_buffalo: :water_buffalo: :sheep: :water_buffalo: :sheep: 
