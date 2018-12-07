@@ -1,0 +1,27 @@
+{
+  "name": "sheepwaterbuffalocode",
+  "version": "1.0.0",
+  "description": "Generate sheepWaterbuffaloCode, aka SWC, used in \"# kosen16s\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Terfno/sheepWaterbuffaloCode.git"
+  },
+  "keywords": [
+    "Slack;",
+    "Discord;",
+    "Generating",
+    "code;",
+    ":sheep:;",
+    ":waterbuffalo:"
+  ],
+  "author": "terfno",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Terfno/sheepWaterbuffaloCode/issues"
+  },
+  "homepage": "https://github.com/Terfno/sheepWaterbuffaloCode#readme"
+}
