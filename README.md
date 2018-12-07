@@ -2,7 +2,7 @@
 [#kosen16s](https://twitter.com/search?q=%23kosen16s&src=typd) で使用されるsheepWaterbuffaloCode，通称SWCを生成する
 
 ## SWCについて
-SWCの現在の仕様はASCIIのみに対応している。
+SWCの現在の仕様はASCIIのみに対応している。
 
 ### 例 NEMUI
 `NEMUI`という単語をSWCによって暗号化(笑)してみる。
